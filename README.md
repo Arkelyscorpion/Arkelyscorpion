@@ -15,3 +15,6 @@
 - 💬 Connect with me [here](https://www.linkedin.com/in/krishnasameer-453ba31bb/)
 - ⚡️ Fun fact : I am a huge chess and playing cards nerd.
 
+**Contact**
+Email : arkelyscorpion@gmail.com
+Discord : arkelyscorpion
