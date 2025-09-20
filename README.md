@@ -1,11 +1,3 @@
-## Hey there! 👋
-### My name is Krishna Sameer and I am a 3rd year CS Student 💻
-
-**NOW**
-- 👨‍🎓Pursuing my UG at [Thiagarajar College of Engineering](www.tce.edu)
-- 🕸️Passionate Self-taught Backend Engineer
-- 📖Determined Competetive Programmer
-
 
 **BIO**
 - ⌨️ I mainly use ```.py``` ```.cpp``` ```.ts```
